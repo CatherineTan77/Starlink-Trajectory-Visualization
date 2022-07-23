@@ -18,13 +18,6 @@ SpaceX is developing a low latency, broadband internet system to meet the needs 
   <li>A second set of test satellites, and 60 operational stellites launched in May 2019</li>
   <li>More to come...</li>
  </ul>
-<strong> ⚒ My Work at a Glance</strong>
-<ul>
-  <li>Set up the Repo by leveraging the React official CLI tool, create-react-app and use NPM to manage project dependencies</li>
-  <li>Designed the layout, component interface and data flow prior to the implementation </li>
-  <li>Built forms to collect user observation info (longitude, latitude, altitude, radius) using Ant Design component library with an option to use browser geolocation for better user experience </li>
-  <li>Achieved the core tracking functionality by fetching nearby satellites info and position prediction data through the N2YO API(s) and React-Simple-Map to animate selected satellite paths on map</li>
-  <li>Deployed the dashboard to AWS for demonstration</li>
-</ul>
 
-**✍ Author: Lucie Wang** - [https://github.com/Lucie-Wang](https://github.com/Lucie-Wang)
+
+
