@@ -12,7 +12,7 @@
   
 </div>
 
-<strong>🛰️ Starlink </strong><br>
+<strong>🛰️ Starlink feature</strong><br>
 SpaceX is developing a low latency, broadband internet system to meet the needs of consumers across the globe. Enabled by a constellation of thousands of mass-produced small satellites in low Earth orbit, working in combination with ground transceivers. Here is a brief Starlink launch history, in case you are interested: 
 <ul>
   <li>First Two Prototype test-flight satellites launched in Feb. 2018</li>
